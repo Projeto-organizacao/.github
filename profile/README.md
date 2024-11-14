@@ -1,4 +1,4 @@
-## Projeto teste👋
+## Projeto teste
 
 <!--
 
